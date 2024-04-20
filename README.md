@@ -10,13 +10,3 @@
 # 📊 GitHub Stats:
 ![](http://github-readme-streak-stats.herokuapp.com?user=arielmazor&theme=gruvbox&hide_border=true&border_radius=5&exclude_days=Sat&card_width=600)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arielmazor&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=arielmazor&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
