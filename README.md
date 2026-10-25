@@ -6,8 +6,8 @@
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arielmazor)
-  [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
-  [![picoCTF](https://img.shields.io/badge/picoCTF-D9232E?style=for-the-badge&logo=flag&logoColor=white)](https://play.picoctf.org/users/arielmazor)
+  [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/4057824)
+  [![picoCTF](https://img.shields.io/badge/picoCTF-D9232E?style=for-the-badge&logo=flag&logoColor=white)](https://learn.cylabacademy.org/profile)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arielmazor/)
 
 </div>
