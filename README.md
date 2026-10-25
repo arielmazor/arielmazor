@@ -16,7 +16,7 @@
 
 ### ⚡ About Me
 
-- 🚀 **Co-Founder:** Developing **[Next Tutor](https://nextutor.next)** — an end-to-end SaaS platform for private tutors and their students.
+- 🚀 **Co-Founder:** Developing **[Next Tutor](https://nextutor.net)** — an end-to-end SaaS platform for private tutors and their students.
 - 📱 **Core Expertise:** Mobile system design, architecture, and performance across native Android and iOS.
 - 🔐 **Security:** Low-level reverse engineering, network security, and vulnerability research.
 
